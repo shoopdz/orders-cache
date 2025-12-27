@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2025-12-27T09:08:25.586Z",
+  "updatedAt": "2025-12-27T09:12:37.947Z",
   "orders": [
     {
       "date": "2025-12-27T08:46:14.225Z",
       "quantity": 1,
       "product": "good product",
-      "name": "?????",
+      "name": "اسامة",
       "phone": 562353318,
-      "wilaya": "???????",
-      "baladia": "???? ???? ???",
-      "delivery": "??????",
+      "wilaya": "الأغواط",
+      "baladia": "قلتة سيدي سعد",
+      "delivery": "المكتب",
       "color": "",
       "size": 3400,
       "total": "",
-      "status": "??? ????",
+      "status": "طلب جديد",
       "rowIndex": 2
     }
   ]
