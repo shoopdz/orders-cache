@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2025-12-27T09:03:04.831Z",
+  "orders": [
+    {
+      "date": "2025-12-27T08:46:14.225Z",
+      "quantity": 1,
+      "product": "good product",
+      "name": "?????",
+      "phone": 562353318,
+      "wilaya": "???????",
+      "baladia": "???? ???? ???",
+      "delivery": "??????",
+      "color": "",
+      "size": 3400,
+      "total": "",
+      "status": "??? ????",
+      "rowIndex": 2
+    }
+  ]
+}
