@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2025-12-27T15:19:10.695Z",
+  "updatedAt": "2025-12-27T15:29:19.165Z",
   "orders": [
+    {
+      "date": "2025-12-27T15:29:18.857Z",
+      "quantity": 1,
+      "product": "إشراقة طبيعية و ناعمة",
+      "name": "أسامة درويش ",
+      "phone": 662712018,
+      "wilaya": "باتنة",
+      "baladia": "معافة",
+      "delivery": "المنزل",
+      "color": "",
+      "size": 2600,
+      "total": 0,
+      "status": "طلب جديد",
+      "rowIndex": 5
+    },
     {
       "date": "2025-12-27T15:19:10.400Z",
       "quantity": 1,
@@ -12,7 +27,7 @@
       "delivery": "المنزل",
       "color": "",
       "size": 500,
-      "total": "",
+      "total": 0,
       "status": "طلب جديد",
       "rowIndex": 4
     },
@@ -27,7 +42,7 @@
       "delivery": "المنزل",
       "color": "",
       "size": 700,
-      "total": "",
+      "total": 0,
       "status": "طلب جديد",
       "rowIndex": 3
     },
@@ -42,7 +57,7 @@
       "delivery": "المكتب",
       "color": "",
       "size": 3400,
-      "total": "",
+      "total": 0,
       "status": "طلب جديد",
       "rowIndex": 2
     }
