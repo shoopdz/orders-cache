@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2025-12-27T09:12:53.211Z",
+  "updatedAt": "2025-12-27T09:18:27.946Z",
   "orders": [
+    {
+      "date": "2025-12-27T09:18:27.391Z",
+      "quantity": 1,
+      "product": "تجربة فقط2",
+      "name": "Code dz",
+      "phone": 697621226,
+      "wilaya": "الشلف",
+      "baladia": "بني بوعتاب",
+      "delivery": "المنزل",
+      "color": "",
+      "size": 700,
+      "total": "",
+      "status": "طلب جديد",
+      "rowIndex": 3
+    },
     {
       "date": "2025-12-27T08:46:14.225Z",
       "quantity": 1,
